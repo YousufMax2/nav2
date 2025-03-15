@@ -1,0 +1,23 @@
+h1{
+    color: rgb(237, 240, 240);
+    background-color: aqua;
+    font-size: 100px;
+    text-align: end;
+    font-weight: 500px;
+
+    
+
+
+}
+#jj{
+    color: chartreuse;
+    background-color: coral;
+
+}
+.color1{
+    color: darkgreen;
+}
+*{
+    margin: 0px;
+}
+
